@@ -1,0 +1,2 @@
+scenario,standard,n_stations,channel_width_mhz,aggregate_throughput_mbps,fairness_index,avg_delay_ms,avg_jitter_ms,loss_rate,tx_packets,rx_packets
+exp3,80211be,16,160,778.224,0.999976,0,0,0.190645,20032,16213

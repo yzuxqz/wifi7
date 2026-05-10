@@ -1,0 +1,2 @@
+scenario,standard,mode,distance_m,background_rate,foreground_interval_ms,throughput_mbps,avg_delay_ms,p99_delay_ms,avg_jitter_ms,loss_rate,tx_packets,rx_packets
+exp2,80211be,emlsr_5g80_6g160,3,50Mbps,2,0.913765,0.247402,1,0.229535,0,500,500

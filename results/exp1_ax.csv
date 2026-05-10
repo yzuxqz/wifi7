@@ -1,0 +1,2 @@
+scenario,standard,distance_m,channel_width_mhz,mcs,throughput_mbps,avg_delay_ms,avg_jitter_ms,loss_rate,tx_packets,rx_packets
+exp1,80211ax,1,160,11,1147.41,105.764,0.0169054,0.887509,8928571,1004388
