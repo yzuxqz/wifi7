@@ -1,2 +1,0 @@
-scenario,standard,mode,distance_m,background_rate,foreground_interval_ms,throughput_mbps,avg_delay_ms,p99_delay_ms,avg_jitter_ms,loss_rate,tx_packets,rx_packets
-exp2,80211ax,single_5g160,3,600Mbps,1,1.82485,0.780399,3.3,0.670878,0,2000,2000
